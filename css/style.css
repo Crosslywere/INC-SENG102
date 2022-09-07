@@ -17,7 +17,48 @@ body {
     box-sizing:border-box;
 }
 /* Arnold Start */
-
+h1, h2, h3, h4, a {
+    font-family:'Fira Sans';
+    margin:0;
+}
+h1 {
+    font-size:64px !important;
+}
+h2 {
+    font-size:42px !important;
+}
+h3 {
+    font-size:32px !important;
+}
+h4 {
+    font-size:24px !important;
+}
+p {
+    font-size:18px;
+    margin:0;
+}
+nav ul {
+    list-style-type:none;
+    font-size:24px !important;
+}
+.lh-1 {
+    line-height:1.2;
+}
+.lh-2 {
+    line-height:1.618;
+}
+.font-regular {
+    font-weight:400;
+}
+.font-medium {
+    font-weight:500;
+}
+.font-semi-bold {
+    font-weight:600;
+}
+.font-bold {
+    font-weight:700;
+}
 /* Arnold End */
 /* Issac Start */
 a.button {
