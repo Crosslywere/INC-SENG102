@@ -20,7 +20,50 @@ body {
 
 /* Arnold End */
 /* Issac Start */
-
+a.button {
+    display:inline-block;
+    border-width:0;
+    padding:24px 80px;
+    border-radius:4px;
+    background-color:var(--inc-dark-torquose);
+    font-weight:700;
+    font-size:24px;
+    letter-spacing:0.025em;
+    color:white;
+}
+.text-darker-torquose {
+    color:var(--inc-darker-torquose) !important
+}
+.text-dark-torquose {
+    color:var(--inc-dark-torquose) !important
+}
+.text-torquose {
+    color:var(--inc-torquose) !important
+}
+.text-dark-orange {
+    color:var(--inc-dark-orange) !important
+}
+.text-deep-blue {
+    color:var(--inc-deep-blue) !important
+}
+.text-white {
+    color:#FFF;
+}
+.background-light-gray {
+    background-color:var(--inc-light-gray);
+}
+.background-lighter-gray {
+    background-color:var(--inc-lighter-gray);
+}
+.background-dirty-green {
+    background-color:var(--inc-dirty-green);
+}
+.text-center {
+    text-align:center;
+}
+.text-decoration-none {
+    text-decoration: none !important;
+}
 /* Issac End */
 /* Jude Start */
 a {
