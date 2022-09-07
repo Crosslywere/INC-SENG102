@@ -4,5 +4,5 @@ __List of Contributors__
 * King Francis Chucks (iamKiNG-Fr)
 * Ebube Achonu (EbubeTheSage)
 * Okonji Chima (Chimaokonji)
-* 
+* Olatoye Samuel (harryderex)
 * 
