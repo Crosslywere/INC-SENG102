@@ -181,5 +181,29 @@ nav {
     /* Samuel End */
 }
 /* Dark-mode Start */
-
+.dark-mode {
+    --inc-darker-torquose:rgb(15, 31, 75);
+    --inc-dark-torquose:#d0d0d0;
+    --inc-torquose:#0DB1A5;
+    --inc-dirty-green:rgb(126, 170, 148);
+    --inc-dark-orange:gold;
+    --inc-deep-blue:#48F;
+    --inc-light-gray:gray;
+    --inc-lighter-gray:#666;
+    background-color:dimgray;
+    color:white;
+}
+.dark-mode .text-white {
+    color:#095953;
+}
+.dark-mode a.button {
+    color: #095953;
+}
+.button-sm {
+    color:white;
+    background-color:var(--inc-darker-torquose);
+    border-width:0;
+    padding:6px;
+    border-radius:24px;
+}
 /* Dark-mode End */
